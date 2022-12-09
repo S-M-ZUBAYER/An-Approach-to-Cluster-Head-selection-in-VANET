@@ -1,0 +1,5 @@
+*.pyc
+log*
+stats/*
+!stats/.gitkeep
+simulator/maps/map.rou.xml
